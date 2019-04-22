@@ -188,7 +188,7 @@ bc.SOCKET2_LABEL=label2
 </BlockDrawer>
 ```
 
-- around line 11070( right before <BlockGenuses> is closed) is where you define the blocks themselves
+- around line 11070( right before "BlockGenuses" is closed) is where you define the blocks themselves
 ```
 <BlockGenus name="BLOCK_NAME_1" kind="BLOCK_TYPE" color="69 69 69" initlabel="bg.BLOCK_COMAND">
     <description>
