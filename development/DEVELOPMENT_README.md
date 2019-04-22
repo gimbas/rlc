@@ -177,7 +177,7 @@ bg.BLOCK_NAME_1_COMMAND=block name 1
 
 bc.SOCKET1_LABEL=label1
 bc.SOCKET2_LABEL=label2
-```-
+```
 
 - Define The blocks in ardublock.xml
 - In the end of ardublock.xml file you create a drawer set
@@ -197,7 +197,8 @@ bc.SOCKET2_LABEL=label2
     <BlockConnectors>
     </BlockConnectors>
 </BlockGenus>
-
+```
+```
 <BlockGenus name="BLOCK_NAME_2" kind="command" color="69 69 69" initlabel="bg.wifi_connect_command">
     <description>
         <text>BLOCK DESCRIPTION</text>
