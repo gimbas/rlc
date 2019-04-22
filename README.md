@@ -14,22 +14,22 @@ These instructions will get you a copy of the project up and running.
 
 ### Aquiring the required components
 
-There is a bill of materials [BOM](rlc/documentation/bom(en).xlsx), there you should find everything you need, including Links.
+There is a bill of materials [BOM](/documentation/bom(en).xlsx), there you should find everything you need, including Links.
 You will this and more in the documentation subdirectory.
 
 ### Building the Robot
 
-We have an indepth [guide](rlc/hardware/HARDWARE_README.md), there you should find everything you need.
+We have an indepth [guide](/hardware/HARDWARE_README.md), there you should find everything you need.
 You will this and more in the hardware subdirectory.
 
 ### Programming the Robot
 
-Check ou the getting started [guide](rlc/software/SOFTWARE_README.md).
+Check ou the getting started [guide](/software/SOFTWARE_README.md).
 You will this and more in the software subdirectory.
 
 ## Developing
 
-See the [README.md](rlc/development/DEVELOPMENT_README.md) file for details and guides.
+See the [README.md](/development/DEVELOPMENT_README.md) file for details and guides.
 You will this and more in the development subdirectory.
 
 ## Authors
