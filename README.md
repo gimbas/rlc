@@ -14,30 +14,30 @@ These instructions will get you a copy of the project up and running.
 
 ### Aquiring the required components
 
-There is a bill of materials [BOM](bom), there you should find everything you need, including Links.
+There is a bill of materials [BOM](rlc/documentation/bom(en).xlsx), there you should find everything you need, including Links.
 You will this and more in the documentation subdirectory.
 
 ### Building the Robot
 
-We have an indepth guide [GUIDE](guide.md), there you should find everything you need.
+We have an indepth [guide](rlc/hardware/HARDWARE_README.md), there you should find everything you need.
 You will this and more in the hardware subdirectory.
 
 ### Programming the Robot
 
-Check ou the getting started guide [GUIDE](guide.md).
+Check ou the getting started [guide](rlc/software/SOFTWARE_README.md).
 You will this and more in the software subdirectory.
 
 ## Developing
 
-See the [README.md](development/README.md) file for details and guides.
+See the [README.md](rlc/development/DEVELOPMENT_README.md) file for details and guides.
 You will this and more in the development subdirectory.
 
 ## Authors
 
-* **Rafael Silva** - *Initial work* - [gimbas](https://github.com/crying-face-emoji)
-* **Joao Silva** - *Initial work* - [gimbas](https://github.com/crying-face-emoji)
+* **Rafael Silva** - *rework* - [gimbas](https://github.com/crying-face-emoji)
+* **Joao Silva** - *rework* - [vankxr](https://github.com/vankxr)
 
-See also the list of [contributors](https://github.com/gimbas/cp2130/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/gimbas/rlc/graphs/contributors) who participated in this project.
 
 ## License
 
@@ -79,8 +79,8 @@ Estats instruções
 
 ## Autores
 
-* **Rafael Silva** - *Initial work* - [gimbas](https://github.com/crying-face-emoji)
-* **Joao Silva** - *Initial work* - [gimbas](https://github.com/crying-face-emoji)
+* **Rafael Silva** - *rework* - [gimbas](https://github.com/crying-face-emoji)
+* **Joao Silva** - *rework* - [vankxr](https://github.com/vankxr)
 
 Vê também a lista de [contribuidores](https://github.com/gimbas/cp2130/graphs/contributors) que participaram no projeto.
 
