@@ -24,6 +24,8 @@ These instructions will help you install a portable version of Arduino IDE 1.6.5
 
 - Download Version 1.6.5 on the official Arduino page <a href="https://www.arduino.cc/en/Main/OldSoftwareReleases#previous">Arduino</a> according to your OS.
 
+![Alt text](/documentation/Download Version 1.6.5.png?raw=true "Version 1.6.5")
+
 - Extract the Downloaded file to wherever you want.
 
 - Inside the folder you just extracted create a subfolder named "portable".

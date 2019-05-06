@@ -1,4 +1,3 @@
-# En - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # RLC - Robot Low Cost
 
 This is an open source low cost robot for use in the context of education, this project is being developed as part of <a href="https://www.ipleiria.pt/home/">Polytechnic Institute of Leiria</a>.
@@ -15,22 +14,22 @@ These instructions will get you a copy of the project up and running.
 ### Aquiring the required components
 
 There is a bill of materials [BOM](/documentation/bom(en).xlsx), there you should find everything you need, including Links.
-You will this and more in the documentation subdirectory.
+You will find this and more in the documentation subdirectory.
 
 ### Building the Robot
 
-We have an indepth [guide](/hardware/README.md), there you should find everything you need.
-You will this and more in the hardware subdirectory.
+We have an indepth [guide](/documentation/HARDWARE.md), there you should find everything you need.
+You will find this and more in the hardware subdirectory.
 
 ### Programming the Robot
 
-Check ou the getting started [guide](/software/README.md).
-You will this and more in the software subdirectory.
+Check ou the getting started [guide](/documentation/SOFTWARE.md).
+You will find this and more in the software subdirectory.
 
 ## Developing
 
 See the [README.md](/development/README.md) file for details and guides.
-You will this and more in the development subdirectory.
+You will find this and more in the development subdirectory.
 
 ## Authors
 
@@ -45,49 +44,4 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Acknowledgments
 
-
-
-# Pt - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# RLC - Robô Baixo Custo
-
-This is an open source low cost robot for use in the context of education, this project is being developed as part of <a href="https://www.ipleiria.pt/home/">Polytechnic Institute of Leiria</a>.
-The objective of this project is to provide resources and guides to build and use a robot with comonly available modules and components, at the lowest cost possible.
-
-## Primeiros passos
-
-Estats instruções
-
-### Pré-requisitos
-
-
-
-### Aquirir os componentes necessários
-
-
-
-### Contruir o Robô
-
-
-
-### Programar o Robô
-
-
-
-## Desenvolvimento
-
-
-
-## Autores
-
-* **Rafael Silva** - *rework* - [gimbas](https://github.com/crying-face-emoji)
-* **Joao Silva** - *rework* - [vankxr](https://github.com/vankxr)
-
-Vê também a lista de [contribuidores](https://github.com/gimbas/cp2130/graphs/contributors) que participaram no projeto.
-
-## Licensa
-
-este projeto está licensiado com GNU General Public License v3.0 - veja o ficheiro [LICENSE.md](LICENSE.md) para mais detalhes(En).
-
-## Reconhecimentos
-
-
+- The original <a href="https://github.com/taweili/ardublock">Ardublock</a> Project
