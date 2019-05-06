@@ -24,13 +24,16 @@ These instructions will help you install a portable version of Arduino IDE 1.6.5
 
 - Download Version 1.6.5 on the official Arduino page <a href="https://www.arduino.cc/en/Main/OldSoftwareReleases#previous">Arduino</a> according to your OS.
 
-![Alt text](https://github.com/gimbas/rlc/blob/master/documentation/assets/Download%20Version%201.6.5.png?raw=true "Version 1.6.5")
+![Alt text](https://github.com/gimbas/rlc/blob/master/documentation/assets/Download%20Version%201.6.5.png?raw=true "Download Version 1.6.5")
 
 - Extract the Downloaded file to wherever you want.
 
 - Inside the folder you just extracted create a subfolder named "portable".
 
+![Alt text](https://github.com/gimbas/rlc/blob/master/documentation/assets/Create%20Portable%20Subdir.png?raw=true "Create Portable Subdir")
+
 - Now you should be able to run the executable "arduino".
+
 
 #### installing Ardublock
 
@@ -38,15 +41,25 @@ These instructions will help you install a portable version of Arduino IDE 1.6.5
 
 - Download ardublock-all.jar from the releases page in this repository.
 
+![Alt text](https://github.com/gimbas/rlc/blob/master/documentation/assets/Releases.png?raw=true "Releases")
+
 - Inside the Arduino installation Folder (the one you extracted before) you should be able to see a folder named "tools", open it.
 
+![Alt text](https://github.com/gimbas/rlc/blob/master/documentation/assets/Arduino%20Tools.png?raw=true "Arduino Tools")
+
 - Create a folder named "ArduBlockTool" WARNING: THIS IS CASE SENSITVE.
+
+![Alt text](https://github.com/gimbas/rlc/blob/master/documentation/assets/Tools%20ArduBlock.png?raw=true "ArduBlockTool")
 
 - Inside the folder you just created create a new one named "tool".
 
 - Copy ardublock-all.jar (the file you downloaded) to the folder you just created (tool).
 
+![Alt text](https://github.com/gimbas/rlc/blob/master/documentation/assets/Ardublock%20Tool.png?raw=true "Ardublock jar")
+
 - Now open the Arduino IDE and in the tab "Tools" you should see an option "ArduBlock" if everything went well.
+
+![Alt text](https://github.com/gimbas/rlc/blob/master/documentation/assets/Arduino%20Ardublock.png?raw=true "Arduino Ardublock")
 
 #### Installing the esp32 board packages
 
@@ -65,21 +78,33 @@ These instructions will help you install a portable version of Arduino IDE 1.6.5
 python3 get.py
 ```
 
+- alternatively you can use Arduino's board manager
+
 ## Running
 
 - Open th arduino IDE you setup above.
 
 - Go to the Tab "Tools" > "Board: ***" and select ESP32 Dev Module.
 
+![Alt text](https://github.com/gimbas/rlc/blob/master/documentation/assets/Arduino%20Boards.png?raw=true "Arduino Boards")
+
 - Go to the Tab "Tools" > "Port" and select the port your board is connected to.
 
 TODO: explain how to select the correct port.
 
+![Alt text](https://github.com/gimbas/rlc/blob/master/documentation/assets/Arduino%20Ports.png?raw=true "Arduino Ports")
+
 - Now open Ardublock: Go to the Tab "Tools" and click "Ardublock".
+
+![Alt text](https://github.com/gimbas/rlc/blob/master/documentation/assets/Arduino%20Ardublock.png?raw=true "Arduino Ardublock")
 
 - You can now program by dragging blocks from the selection to the left and conecting them together. you can look at our examples to get you started.
 
+![Alt text](https://github.com/gimbas/rlc/blob/master/documentation/assets/20Ardublock.png?raw=true "Ardublock")
+
 - To run your program click th "Upload" Button.
+
+![Alt text](https://github.com/gimbas/rlc/blob/master/documentation/assets/Ardublocks%20Upload.png?raw=true "Ardublock Upload")
 
 TODO: Block programming tutorial
 

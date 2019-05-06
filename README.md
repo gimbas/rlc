@@ -18,17 +18,17 @@ You will find this and more in the documentation subdirectory.
 
 ### Building the Robot
 
-We have an indepth [guide](/documentation/HARDWARE.md), there you should find everything you need.
+We have an indepth [build guide](/documentation/HARDWARE.md), there you should find everything you need.
 You will find this and more in the hardware subdirectory.
 
 ### Programming the Robot
 
-Check ou the getting started [guide](/documentation/SOFTWARE.md).
+Check ou the getting started [programming guide](/documentation/SOFTWARE.md).
 You will find this and more in the software subdirectory.
 
 ## Developing
 
-See the [README.md](/development/README.md) file for details and guides.
+See the [dev guide](/development/README.md) file for details and guides.
 You will find this and more in the development subdirectory.
 
 ## Authors
