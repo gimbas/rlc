@@ -1,6 +1,6 @@
 # RLC - Robot Low Cost
 
-![Alt text](https://github.com/gimbas/rlc/blob/master/documentation/assets/rlc.png?raw=true "rlc")
+![Alt text](https://github.com/gimbas/rlc/blob/master/documentation/assets/rlc.jpeg?raw=true "rlc")
 
 This is an open source low cost robot for use in the context of education, this project is being developed as part of <a href="https://www.ipleiria.pt/home/">Polytechnic Institute of Leiria</a>.
 The objective of this project is to provide resources and guides to build and use a robot with comonly available modules and components, at the lowest cost possible.
